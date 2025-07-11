@@ -7,6 +7,8 @@
 
 .idea/
 
+test_area.py
+
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/tasks.xml
